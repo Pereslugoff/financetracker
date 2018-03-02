@@ -13,6 +13,7 @@ gem 'devise'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
